@@ -1,0 +1,20 @@
+12345670
+1-this is how many times the flow was completed
+Time of creation: 19:41
+Desc
+This is the title step.
+Title: Titlu
+Subtitle: Subtitlu
+This is the text step.
+Title: Alttitlu
+Text: 
+ceva para
+graf 
+This is the text input step.
+Description: Descriere
+Text: Acesta e un text 
+This is the number input step.
+Description: 
+Number: 0
+This is the calculus step.
+This is the display step.
